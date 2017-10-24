@@ -10,7 +10,7 @@
         "url": "https://github.com/akfish/vscode-devdocs"
     },
     "engines": {
-        "vscode": "^1.10.0"
+        "vscode": "^1.17.0"
     },
     "categories": [
         "Other"
@@ -83,7 +83,7 @@
         "@types/node": "^6.0.40",
         "mocha": "^2.3.3",
         "typescript": "^2.0.3",
-        "vscode": "^1.0.0"
+        "vscode": "^1.1.6"
     },
     "dependencies": {
         "@types/lodash": "^4.14.58",
